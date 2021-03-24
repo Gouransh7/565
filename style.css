@@ -1,0 +1,117 @@
+img {
+    border: solid;
+    border-color: black;
+}
+
+.header {
+    display: flex;
+    color: #2e2bc7;
+    background-color: #606060;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.camel {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(163, 33, 19);
+}
+
+.chameleon {
+    border: 1px solid rgb(73, 24, 24);
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(30, 153, 81);
+}
+
+.pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(67, 20, 197);
+}    
+
+.teddy-bear {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(49, 21, 207);
+}
+
+.panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(42, 21, 134);
+}
+
+.flying-cicada {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(48, 18, 128);
+}
+
+.crab {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(18, 63, 189);
+}
+
+.swan {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color: rgb(71, 17, 143);
+}
+
+body {
+    
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: medium;
+}
+
+.intro {
+    background-color: rgb(182, 35, 18);
+}
+
+a:link{
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
